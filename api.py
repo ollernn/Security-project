@@ -28,5 +28,5 @@ if __name__ == "__main__":
     print("API_KEY =", API_KEY)
     app.run(host="127.0.0.1", port=3000)
 
-## Copy this code in new terminal to enter the server
+## Enter this code in a new terminal to access the server
 ##curl.exe -H "X-API-key: pass123" http://127.0.0.1:3000/data
